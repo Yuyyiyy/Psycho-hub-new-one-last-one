@@ -94,7 +94,7 @@ local buttonsPagesData = {{
     {Text = "Damage repel", ScriptLink = "https://pastebin.com/raw/9iJiCHHS"}, -- Added placeholder link
     {Text = "SPT auto grab", ScriptLink = "https://pastebin.com/raw/MHN7tVU8"},
     {Text = "Loopbring", ScriptLink = "https://pastebin.com/raw/ECi96Q7p"},
-    {Text = "Use tools", ScriptLink = "https://pastebin.com/raw/fnGNW8Lk"},
+    {Text = "Use tools", ScriptLink = "https://pastebin.com/raw/tcj8f1UJ"},
     {Text = "Auto grab", ScriptLink = "https://pastebin.com/raw/MTkXJ8i9"},
     {Text = "Damage hitbox", ScriptLink = "https://pastebin.com/raw/NRc9FVHJ"},
     {Text = "FPS", ScriptLink = "https://pastebin.com/raw/ZMM98Aaj"},
