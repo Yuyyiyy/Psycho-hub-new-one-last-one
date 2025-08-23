@@ -97,14 +97,14 @@ local buttonsPagesData = {{
     {Text = "Use tools", ScriptLink = "https://pastebin.com/raw/SULu60kv"},
     {Text = "Auto grab", ScriptLink = "https://pastebin.com/raw/MTkXJ8i9"},
     {Text = "Damage hitbox", ScriptLink = "https://pastebin.com/raw/NRc9FVHJ"},
-    {Text = "FPS", ScriptLink = "https://pastebin.com/raw/ZMM98Aaj"},
+    {Text = "FPS", ScriptLink = "https://pastebin.com/raw/sRmXBAQT"},
     {Text = "Lag server", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/6f38723afc3d835dc1f8bc96b9f61bd8/raw/9d7b2525de18a7f1220d5c78fcfdf34b7da5e05f"},
     {Text = "No cooldown 1%", ScriptLink = "https://pastefy.app/hBC3uVD6/raw"},
     {Text = "No cooldown 30%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/602ad74771fa6ed8b0118b8b2303c0cb/raw/a90c5000987fe694ae8fd250df0e981032245b4a"},
     {Text = "No cooldown 50%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/b2fc36b1230d4bb9b06db2a419f50a8a/raw/e442c967add6123afd88d717b773361f7ad62af2"},
     {Text = "Auto base", ScriptLink = "https://pastefy.app/kS9BglBQ/raw"},
     {Text = "lag button", ScriptLink = "https://pastebin.com/raw/uxAGn259"},
-    {Text = "THROW POWERS", ScriptLink = "https://pastebin.com/raw/uaHva1UX"}, -- Fixed syntax error and added placeholder
+    {Text = "THROW POWERS", ScriptLink = "https://pastebin.com/raw/WFxXrGrM"}, -- Fixed syntax error and added placeholder
 }}
 
 -- Make buttons
