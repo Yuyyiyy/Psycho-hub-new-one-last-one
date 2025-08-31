@@ -1,35 +1,4 @@
-local Players = game:GetService("Players")
-local RunService = game:GetService("RunService")
-local player = Players.LocalPlayer
-local playerGui = player:WaitForChild("PlayerGui")
 
--- Allowed users list
-local testUsers = {
-    "Klaywessels_48171", "Vealskylab", "", "psychopowerful049", "psychopowerful90",
-    "psychopowerful88", "time_2dierip3", "", "1x1alt7", "psychopowerful98",
-    "Test11", "Test12", "Test13", "Test14", "Test15",
-    "testUser16", "testUser17", "testUser18", "testUser19", "testUser20",
-    "testUser21", "testUser22", "testUser23", "testUser24", "testUser25",
-    "testUser26", "testUser27", "testUser28", "testUser29", "testUser30",
-    "testUser31", "testUser32", "testUser33", "testUser34", "testUser35",
-    "testUser36"
-}
-
-local function isAllowed(name)
-    name = string.lower(name)
-    for _, allowedName in ipairs(testUsers) do
-        if string.lower(allowedName) == name then
-            return true
-        end
-    end
-    return false
-end
-
--- Kick unauthorized players
-if not isAllowed(player.Name) then
-    player:Kick("HAHA 🖕🖕STUPID 🤣")
-    return
-end
 
 -- GUI setup
 local screenGui = Instance.new("ScreenGui", playerGui)
